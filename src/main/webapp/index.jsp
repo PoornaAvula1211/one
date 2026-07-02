@@ -139,6 +139,9 @@
             border: 0;
             cursor: pointer;
             color: var(--primary);
+            color: var(--primary);
+            color: var(--primary);
+            color: var(--primary);
             font-size: 16px;
         }
 
